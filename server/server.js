@@ -1,7 +1,8 @@
-const express = require('express')
+import { userService, transactionService } from "./database/index.js";
+import express from "express"
 const app = express();
 const port = 3000;
 
 
-// TODO define routes
+
 

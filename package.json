@@ -1,0 +1,14 @@
+{
+  "name": "stocks_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init_view": "cd view && npm i",
+    "init_server": "cd server && npm i",
+    "init": "npm run init_server & npm run init_view",
+    "author": "",
+    "license": "ISC"
+  }
+}
