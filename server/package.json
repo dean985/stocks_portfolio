@@ -12,7 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^8.2.3"
+    "mongoose": "^8.2.3",
+    "request": "^2.88.2",
+    "yahoo-finance2": "^2.11.0"
   },
   "keywords": [],
   "description": ""
